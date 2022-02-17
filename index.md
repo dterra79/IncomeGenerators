@@ -5,7 +5,7 @@
 ## [Requirements (requirements.html / requirements.md)](https://github.com/dterra79/IncomeGenerators.git)
 ## [Architecture (architecture.html / architecture.md)](https://github.com/dterra79/IncomeGenerators/tree/gh-pages)
 ## [Design Document (design.html / design.md)](https://github.com/dterra79/IncomeGenerators/tree/gh-pages)
-## [Test Report (testreport.html / testreport.md)](https://github.com/dterra79/IncomeGenerators/tree/gh-pages)
+## [Test Report (testreport.html / testreport.md)](https://www.google.com/)
 
 ```
  This sure does look nice
