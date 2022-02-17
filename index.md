@@ -4,7 +4,7 @@
 [Link](https://github.com/dterra79/IncomeGenerators.git) 
     
     
-## [User Stories (userstories.html / userstories.md)](https://github.com/dterra79/IncomeGenerators.git)
+## User Stories (userstories.html)]
 [Link](https://github.com/dterra79/IncomeGenerators.git) 
 
 ## Requirements (requirements.html)
