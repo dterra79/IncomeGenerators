@@ -1,7 +1,7 @@
 # ArcadeCraft
 
 ## Problem Statement (problem.html / problem.md)
-[Link](https://github.com/dterra79/IncomeGenerators.git) 
+[Link](https://github.com/dterra79/IncomeGenerators/blob/gh-pages/problem.html) 
     
     
 ## User Stories (userstories.html)
