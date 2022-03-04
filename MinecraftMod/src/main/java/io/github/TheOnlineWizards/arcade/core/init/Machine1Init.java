@@ -10,13 +10,18 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 
 
-public final class Machine1Init {
+   public final class Machine1Init {
 	
-	private Machine1Init() {}
+	  
+	   public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, Arcade.MODID);
 	
-	public static final RegistryObject <ArcadeMachineBlock> ARCADE_MACHINE = BLOCKS.register("Arcade Machine", 
-			() -> new ArcadeMachineBlock(BlockBehaviour.Properties.of(Material.METAL, MaterialColor.TERRACOTTA_ORANGE)
-					.strength(8.0f, 30f).requiresCorrectToolForDrops()));
-	
+	   public static final RegistryObject <ArcadeMachineBlock> ARCADE_MACHINE = BLOCKS.register("Arcade Machine", 
+		    	() -> new ArcadeMachineBlock(BlockBehaviour.Properties.of(Material.METAL, MaterialColor.TERRACOTTA_ORANGE)
+				.strength(8.0f, 30f).requiresCorrectToolForDrops()));
+
+	   private Machine1Init() {}
+		
+		
+	}
 	
 }
