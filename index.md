@@ -1,23 +1,16 @@
 # ArcadeCraft
 
-## Problem Statement (problem.html / problem.md)
-[Link](https://github.com/dterra79/IncomeGenerators/blob/gh-pages/Problem%20Statement.docx) 
+## [Problem Statement (problem.md)](Problem Statement.docx)
     
-    
-## User Stories (userstories.html)
-[Link](https://github.com/dterra79/IncomeGenerators.git) 
+## [User Stories (userstories.md)](userstories.md)
 
-## Requirements (requirements.html)
-[Link](https://github.com/dterra79/IncomeGenerators.git) 
+## [Requirements (requirements.md)](requirements.md)
 
-## Architecture (architecture.html)
-[Link](https://github.com/dterra79/IncomeGenerators.git) 
+## [Architecture (architecture.md)](architecture.md)
 
-## Design Document (design.html)
-[Link](https://github.com/dterra79/IncomeGenerators.git) 
+## [Design Document (design.md)](design.md) 
 
-## Test Report (testreport.htmL)
-[Link](https://github.com/dterra79/IncomeGenerators.git) 
+## [Test Report (testreport.md)](testreport.md)
 ```
  This sure does look nice
  
