@@ -7,6 +7,7 @@
 >
 >**Acceptance Test:** That the game runs when clicked on in Minecraft. 
 
+
 # 2) As a developer, I want Ensane Blox to be developed on a separate engine.
 >**Elaboration:** Making a game within another games just introduces far too many obstacles that could be dodged if we developed the game in another piece of software. 
 >
@@ -15,6 +16,7 @@
 >**Effort Estimation:** 2 person-hours
 >
 >**Acceptance Test:** That the game can be tested in any way. 
+
 
 # 3) As a developer, I want the other games that we come up with to be fun.
 >**Elaboration:** At the end of the day, the goal is to have fun with these games, both as a developer and as a user.
