@@ -51,16 +51,28 @@ which are just items.
 > Currently no Interface at the moment.
 ### 4.2 Performance Requirements
 > Our product needs Minecraft in order to run properly and won't work for any other game.
-> NF.4.2.1: Minecraft.
+
+>> NF.4.2.1: Minecraft.
+
 ### 4.3 Design Constraints
+
 > One design reuirement is for the blocks are 1x2 and won't fit in a 1x1 space.
-> NF.4.3.1: no less then 1x2 Block space
+
+>> NF.4.3.1: no less then 1x2 Block space
+
 ### 4.4 Quality Requirements
+
 > The quality of the blocks to look detailed, functional, and fun to use when playing within the game.
-> NF.4.4.1: Detailed blocks
-> NF.4.4.2: Functional Blocks
-> NF.4.4.3: Fun experience.
+
+>> NF.4.4.1: Detailed blocks
+
+>> NF.4.4.2: Functional Blocks
+
+>> NF.4.4.3: Fun experience.
+
 ### 4.5 Other Requirements
+
 >No other requirements are needed or added, for all requirements are above.
+
 # 5. Appendices
 >
