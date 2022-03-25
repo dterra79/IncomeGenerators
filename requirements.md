@@ -48,25 +48,19 @@ which are just items.
 > https://github.com/dterra79/IncomeGenerators/blob/gh-pages/userstories.md
 # 4. System and Non-functional Requirements
 ### 4.1 External Interface Requirements (User,Hardware,Software,Communications)
-> User:
->> NF.4.1.1 : Download and guide lines: to ensure the user downloads and reads the guide lines before downloading 
-
-> Hardware:
->> NF.4.1.2: PC: to fully experience what the product can do.
-
-> Software:
->> NF.4.1.X Minecraft: displays the various objects and its details.
-
-> Communication:
->> Currently no communication requirements.
-
+> Currently no Interface at the moment.
 ### 4.2 Performance Requirements
-> 
+> Our product needs Minecraft in order to run properly and won't work for any other game.
+> NF.4.2.1: Minecraft.
 ### 4.3 Design Constraints
-> Hi
+> One design reuirement is for the blocks are 1x2 and won't fit in a 1x1 space.
+> NF.4.3.1: no less then 1x2 Block space
 ### 4.4 Quality Requirements
-> Hi
+> The quality of the blocks to look detailed, functional, and fun to use when playing within the game.
+> NF.4.4.1: Detailed blocks
+> NF.4.4.2: Functional Blocks
+> NF.4.4.3: Fun experience.
 ### 4.5 Other Requirements
->
+>No other requirements are needed or added, for all requirements are above.
 # 5. Appendices
 >
