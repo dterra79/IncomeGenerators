@@ -56,9 +56,9 @@ which are just items.
 
 ### 4.3 Design Constraints
 
-> One design reuirement is for the blocks are 1x2 and won't fit in a 1x1 space.
+> The one design requirement is on ourselves for the blocks must be 1x2.
 
->> NF.4.3.1: no less then 1x2 Block space
+>> NF.4.3.1: 1x2 Block space.
 
 ### 4.4 Quality Requirements
 
@@ -75,4 +75,4 @@ which are just items.
 >No other requirements are needed or added, for all requirements are above.
 
 # 5. Appendices
->
+
