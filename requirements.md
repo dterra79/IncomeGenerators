@@ -20,8 +20,8 @@
 
 > - Block – A literal cube that the player sees in the game. A person can modify a cube and share their modification as a mod.
 ### 1.4 References:
-> References use for the design of the product:
->>Hi
+> References use for the start of the product and its setup:
+https://www.youtube.com/watch?v=gDGRWX5iTwk&list=PLaevjqy3XufahUjMFr9H-FDjgZ0uejPen&index=1
 # 2. General Description of Product
 ### 2.1 Context of Product
 >As previously stated, our project is a Minecraft mod. Mods have existed for this game for almost as long as the game has been available, and we would be far from the first to create such a mod. However, this means that there is a substantial community for creating and sharing such mods, and it also means that there is a great deal of resources available on this game. We plan on sharing this mod once it is completed (this is subject to change) and sharing our progress in class.
@@ -39,18 +39,29 @@ which are just items.
 ### 2.3 Product Functions (general)
 > Our project is a Minecraft mod that would add arcade machines to the base game and would allow the user to walk up to one of the machines, insert a token, and play a game. The arcade machines themselves would be custom blocks made to resemble a real machine, and the tokens would be a custom item that we would make to look like a quarter. At first, we would try to create some real-life games, such as Pac-Man, then move on to creating and designing our games. As we were able to design one Block already to proceed with the project with the first being pac-man.
 ### 2.4 User Characteristics and Expectations
-> Our Users expectations consist of experience users who were able to understand the games basic mechanics and had experience in crafting various items within the game for our building blocks require, at most, the basic knowledge of the game to craft the items.
+> Our Users expectations consist of experience users who were able to understand the games basic mechanics and had experience in crafting various items within the game.In fact, for our building blocks require, at most, the basic knowledge of the game to craft the items.
 ### 2.5 Constraints
-> Hi
+> So far some constraints have been not being able to implament more blocks as time goes on but is a work in progress.
 ### 2.6 Assumptions and Dependencies
-> Hi
+> Our product depends on Minecraft as a external software package to be able to run our product on and requires the system that minecraft offers to allow the blocks to be built within.
 # 3. Functional Requirements
-> Hi
+> https://github.com/dterra79/IncomeGenerators/blob/gh-pages/userstories.md
 # 4. System and Non-functional Requirements
 ### 4.1 External Interface Requirements (User,Hardware,Software,Communications)
-> Hi
+> User:
+>> NF.4.1.1 : Download and guide lines: to ensure the user downloads and reads the guide lines before downloading 
+
+> Hardware:
+>> NF.4.1.2: PC: to fully experience what the product can do.
+
+> Software:
+>> NF.4.1.X Minecraft: displays the various objects and its details.
+
+> Communication:
+>> Currently no communication requirements.
+
 ### 4.2 Performance Requirements
-> Hi
+> 
 ### 4.3 Design Constraints
 > Hi
 ### 4.4 Quality Requirements
