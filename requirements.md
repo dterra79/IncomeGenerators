@@ -1,8 +1,8 @@
 # 1. Introduction
 ### 1.1 Purpose of Product: 
-> Hi
+>  At the start, our product is design to help entertain players by given old-classic arcades to play within a game. So its purpose is stand to help players enjoy their worlds with games with said worlds. So far its design to built within the game itself so the players get to experience the build of it and once done be able to play said game. Its currently only one developed but is to serve a purpose in entertaining a select few with different requirements be built by players and have them play classic games within a game.
 ### 1.2 Scope of Product:
-> Hi
+> So far 
 ### 1.3 Acronyms, Abbreviations, Definitions:
 > Hi
 ### 1.4 References:
