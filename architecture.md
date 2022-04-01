@@ -7,8 +7,8 @@
 
 # Why we didn’t use another
 > ## Pipe-and-Filter:
->> - Not enough of us can act as filters
->> - There would be too much redundancy in roles
+> - Not enough of us can act as filters
+> - There would be too much redundancy in roles
 
 > ## Peer-to-peer
 >> - There are too many components that everyone needs to be able to view.
@@ -21,9 +21,9 @@
 
 # In conclusion
 > The repository architecture is perfect for our needs due to the following:
->> 1. It allows code to easily be transferred from one end to another.
->> 2. Minecraft itself is a massive repository, thus modifying the game through this method is much more easier to do.
+> 1. It allows code to easily be transferred from one end to another.
+> 2. Minecraft itself is a massive repository, thus modifying the game through this method is much more easier to do.
 
 > There are some faults to this method as:
->> 1. If one member didn’t follow the correct steps in the coding process, running the test server would be impossible.
->> 2. If a member doesn't post prerequisite code, such as a block, then there is no way to test the game functionality properly.
+> 1. If one member didn’t follow the correct steps in the coding process, running the test server would be impossible.
+> 2. If a member doesn't post prerequisite code, such as a block, then there is no way to test the game functionality properly.
