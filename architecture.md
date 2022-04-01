@@ -17,7 +17,7 @@
 > - Would require one of us to publish code, and the rest of us to be useless until then. 
 
 # Repository Diagram
-![Repository Diagram](/IncomeGenerators/gh-pages/repo.png)
+![Repository Diagram](repo.png)
 
 # In conclusion
 > The repository architecture is perfect for our needs due to the following:
