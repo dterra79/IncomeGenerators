@@ -11,10 +11,10 @@
 > - There would be too much redundancy in roles
 
 > ## Peer-to-peer
->> - There are too many components that everyone needs to be able to view.
+> - There are too many components that everyone needs to be able to view.
 
 > ## Publish-Subscribe
->> - Would require one of us to publish code, and the rest of us to be useless until then. 
+> - Would require one of us to publish code, and the rest of us to be useless until then. 
 
 # Repository Diagram
 ![Repository Diagram](/IncomeGenerators/gh-pages/repo.png)
