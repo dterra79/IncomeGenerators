@@ -1,16 +1,24 @@
+
 modLoader="javafml" #mandatory
-loaderVersion="[37,)" 
+
+loaderVersion="[37,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+
+
 license="MIT"
-# A list of mods - how many allowed here is determined by the individual mod loader
-[[mods]] 
-modId="arcade" 
-version="1.0" 
-displayName="Arcade!!" 
-logoFile="examplemod.png" 
-credits="TheOnlineWizards" #optional
-authors="TheOnlineWizards" #optional
+
+#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
+
+[[mods]] #mandatory
+# The modid of the mod
+modId="arcademod" #mandatory
+version="${file.jarVersion}" #mandatory
+displayName="Arcade Machine Mod" #mandatory
+# A URL to query for updates for this mod. See the JSON update specification https://mcforge.readthedocs.io/en/latest/gettingstarted/autoupdate/
+logoFile="examplemod.png" #optional
+credits="I would like to thank lord steve" #optional
+authors="Julian Hernandez, Isaac Marrufo, Diego Terrazas" #optional
+# The description text for the mod (multi line!) (#mandatory)
 description='''
-
-
+An arcade machine mod.
+Kind of insane.
 '''
-

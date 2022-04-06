@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "arcademod:block/pacblock" },
+		"facing=south": { "model": "arcademod:block/pacblock", "y": 180 },
+		"facing=west": { "model": "arcademod:block/pacblock", "y": 270 },
+		"facing=east": { "model": "arcademod:block/pacblock", "y": 90 }
+	}
+}
