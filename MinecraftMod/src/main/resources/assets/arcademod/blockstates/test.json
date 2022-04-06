@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "arcademod:block/testblock" }
+    }
+}
