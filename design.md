@@ -6,7 +6,7 @@
 > For us, the repository that we are sourcing most of our files from is Minecraft itself. From there, we get a lot of the properties for our blocks, and a platform on which to test on. 
 > This is just a diagram, meaning that we are not actually using 6 knowledge sources, we are only using 3.
 
-> #Knowledge source 1:
+> # Knowledge source 1:
 > Knowledge source 1 is the properties of the blocks that are already within Minecraft. Our Arcade Machine blocks have the same strength as the "Stone" block, and can be punched in order to break them.
 
 > # Knowledge source 2:
