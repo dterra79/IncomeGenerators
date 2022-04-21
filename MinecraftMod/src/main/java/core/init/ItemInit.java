@@ -20,11 +20,11 @@ public final class ItemInit {
 	
 	//Block Items
 	public static final RegistryObject<BlockItem> TEST_BLOCK_ITEM = ITEMS.register("testblock", 
-			() -> new BlockItem( BlockInit.pacblock.get() , new Item.Properties().tab(CreativeModeTab.TAB_MISC))); 
+			() -> new BlockItem( BlockInit.pacblock.get() , new Item.Properties().tab(CreativeModeTab. Arcade_TAB))); 
 	
 	public static final RegistryObject<BlockItem> PAC_BLOCK_ITEM = ITEMS.register("pacblock", 
-			() -> new BlockItem( BlockInit.pacblock.get() , new Item.Properties().tab(CreativeModeTab.TAB_MISC))); 
+			() -> new BlockItem( BlockInit.pacblock.get() , new Item.Properties().tab(CreativeModeTab. Arcade_TAB))); 
 	
 	public static final RegistryObject<BlockItem> SNAKE_BLOCK_ITEM = ITEMS.register("snakeblock", 
-			() -> new BlockItem( BlockInit.snakeblock.get() , new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+			() -> new BlockItem( BlockInit.snakeblock.get() , new Item.Properties().tab(CreativeModeTab. Arcade_TAB)));
 }

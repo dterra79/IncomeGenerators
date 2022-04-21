@@ -13,5 +13,15 @@ public class Arcade {
 		var bus = FMLJavaModLoadingContext.get().getModEventBus();
 		
 	}
+	
+	
+	public static final CreativeModeTab extends Arcade_TAB = new CreativeModeTab(MODID) {
+		
+		@Override 
+		public ItemStack makeIcon( ) {
+			return ItemInit.CHORUS_PLANT;
+			
+		}
+	};
 
 }
