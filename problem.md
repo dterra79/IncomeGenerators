@@ -33,10 +33,10 @@ which are just items.
 
 > In the future, this diagram will include the games that we have added and games that we designed.
 
-(diagram.png)
+![Diagram](diagram.png)
 
 # 2.3 Product Functions
 
 > Our project is a Minecraft mod that would add arcade machines to the base game and would allow the user to walk up to one of the machines, insert a token, and play a game. The arcade machines themselves would be custom blocks made to resemble a real machine, and the tokens would be a custom item that we would make to look like a quarter. At first, we would try to create some real-life games, such as Pac-Man, then move on to creating and designing our games.
 
-(pacmachine.png)
+![Alpha Pac Man Machine](pacmachine.png)
