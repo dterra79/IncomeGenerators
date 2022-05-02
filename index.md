@@ -1,6 +1,6 @@
 # ArcadeCraft
 
-## [Problem Statement (problem.md)](Problem_Statement.docx)
+## [Problem Statement (problem.md)](problem.md)
     
 ## [User Stories (userstories.md)](userstories.md)
 
