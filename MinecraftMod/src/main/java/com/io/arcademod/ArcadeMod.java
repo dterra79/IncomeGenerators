@@ -3,6 +3,9 @@ package com.io.arcademod;
 import core.init.BlockInit;
 import core.init.ItemInit;
 import net.minecraft.core.Direction;
+import net.minecraft.world.item.CreativeModeTab;
+import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.item.Items;
 import net.minecraft.world.phys.shapes.Shapes;
 import net.minecraft.world.phys.shapes.VoxelShape;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -34,5 +37,14 @@ public class ArcadeMod {
 		BlockInit.BLOCKS.register(ibus);
 		ItemInit.ITEMS.register(ibus);
 	}
+	
+	public static final CreativeModeTab ARCADE_TAB = new CreativeModeTab(MODID) {
+
+        @Override 
+        public ItemStack makeIcon( ) {
+            return Items.CHORUS_PLANT.getDefaultInstance();
+
+        }
+    };
 	
 }

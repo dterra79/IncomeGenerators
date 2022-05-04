@@ -1,5 +1,5 @@
 {
-"Block.arcade.ArcadeMachine" :"Arcade Machine "
-"itemGroup.Arcade": "Arcade"
+	"Block.arcade.ArcadeMachine" :"Arcade Machine ,
+	"itemGroup.ArcadeMod": "Arcade Mod"
 
 }
