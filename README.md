@@ -1,9 +1,9 @@
 # IncomeGenerators
 the minecraft modders 
 
-https://dterra79.github.io/IncomeGenerators/
+Here is our webpage: https://dterra79.github.io/IncomeGenerators/
 
-Here, you can find 6 files which tell you all about our project. In order, they are:
+On the webpage, you can find 6 files which tell you all about our project. In order, they are:
 
 Problem Statement:
 > We address what we are trying to do, give any context that is neccessary to understand the project, and overall explain what we're doing.
